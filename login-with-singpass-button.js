@@ -149,7 +149,7 @@ export class LoginWithSingpassButton extends LitElement {
     const size = this.size || 'md';
     const line = this.multiline ? 'multi' : 'single';
     const className = [color, size, line].join(' ');
-    const src = `./res/${color}-${size}-${line}.svg`;
+    const src = `https://stg.storybook.design.singpass.gov.sg/${color}-${size}-${line}.svg`;
     return html`
       <button
         @click=${this._onClick}
