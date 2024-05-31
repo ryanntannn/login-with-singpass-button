@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>&lt;login-with-singpass-button> Demo</title>
+    <script type="module" src="./login-with-singpass-button.js"></script>
+  </head>
+  <body>
+    <login-with-singpass-button color="red">test</login-with-singpass-button>
+    <script type="module">
+      import {LoginWithSingpassButton} from './login-with-singpass-button.js';
+
+      LoginWithSingpassButton.setAuthOptions({
+        clientId: 'test',
+        redirectUri: 'test',
+        state: 'test',
+      });
+    </script>
+  </body>
+</html>
