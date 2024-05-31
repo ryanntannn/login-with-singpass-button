@@ -247,6 +247,7 @@ class LoginWithSingpassButton extends LitElement {
         @click=${this._onClick}
         class=${className}
         ?disabled=${this.disabled}
+        aria-label="Login with Singpass"
       >
         <img src=${src} />
       </button>
