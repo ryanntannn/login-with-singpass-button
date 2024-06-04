@@ -1,6 +1,6 @@
 {
   "name": "@ndisg/login-with-singpass-button",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "description": "A styled web-component to be used with the \"Login with Singpass\" authentication flow",
   "main": "login-with-singpass-button.js",
