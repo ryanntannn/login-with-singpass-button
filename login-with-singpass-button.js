@@ -49,8 +49,8 @@ const redirectToSingpass = function (authOptions) {
   // Construct the URLß
   const url = new URL(
     authOptions.stg === false
-      ? `https://singpass.gov.sg/login`
-      : `https://stg-id.singpass.gov.sg/login`
+      ? `https://id.singpass.gov.sg/auth`
+      : `https://stg-id.singpass.gov.sg/auth`
   );
   url.searchParams.set('scope', authOptions.scope || 'openid');
   url.searchParams.set('response_type', authOptions.responseType || 'code');

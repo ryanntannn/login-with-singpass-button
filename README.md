@@ -1,6 +1,8 @@
-![alt](https://cdn.jsdelivr.net/gh/ryanntannn/login-with-singpass-button/res/btn.svg)
+![alt](./res/btn.svg)
 
 # login-with-singpass-button
+
+![NPM Version](https://img.shields.io/npm/v/%40ndisg%2Flogin-with-singpass-button) [![install size](https://packagephobia.com/badge?p=@ndisg/login-with-singpass-button)](https://packagephobia.com/result?p=@ndisg/login-with-singpass-button)
 
 `login-with-singpass-button` is a lightweight web component that provides a button to login with Singpass as part of the Singpass authentication flow.
 

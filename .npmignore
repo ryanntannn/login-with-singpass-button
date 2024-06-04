@@ -1,0 +1,7 @@
+/.github
+/.vscode
+.nvmrc
+.prettierc
+demo.html
+dev.html
+release.config.js
