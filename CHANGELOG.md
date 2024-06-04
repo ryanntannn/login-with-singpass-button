@@ -1,3 +1,10 @@
+## [0.1.2](https://github.com/ryanntannn/login-with-singpass-button/compare/v0.1.1...v0.1.2) (2024-06-04)
+
+
+### Bug Fixes
+
+* remove image from package ([5d148bd](https://github.com/ryanntannn/login-with-singpass-button/commit/5d148bdd6b22b4b9c531b925d2d12123453ab835))
+
 ## [0.1.1](https://github.com/ryanntannn/login-with-singpass-button/compare/v0.1.0...v0.1.1) (2024-06-04)
 
 
